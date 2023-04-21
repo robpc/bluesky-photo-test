@@ -114,7 +114,7 @@ const testImagePost = async (
 };
 
 await testImagePost(
-  "Test photo by @robpc.com, posted using this example code https://github.com/robpc/bluesky-photo-test",
-  "./images/robpc_tidal_basin.jpg",
-  "Photo looking over the Tidal Basin in Washington, DC. The cherry blossoms are in bloom and the Washington Monument is in the background."
+  "Photo posting example by @robpc.com https://github.com/robpc/bluesky-photo-test image by Cassidy James Blaede https://unsplash.com/photos/TA22tc6YyMw",
+  "./images/cassidy-james-blaede-TA22tc6YyMw-unsplash.jpg",
+  "Close up portrait of a cat. The cat in profile staring to the left of the photo."
 );

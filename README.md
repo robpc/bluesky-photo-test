@@ -20,4 +20,4 @@ npm run dev
 
 ## Attribution
 
-Photo [robpc_tidal_basin.jpg](./images/robpc_tidal_basin.jpg) is copyrighted to Rob Cannon ([robpc.com](https://robpc.com)). Users of this repo are allowed to post this photo to Bluesky while experimenting with this repo as long as `@robpc.com` is tagged in the post as in the example.
+Photo [cassidy-james-blaede-TA22tc6YyMw-unsplash.jpg](./images/cassidy-james-blaede-TA22tc6YyMw-unsplash.jpg) is CC0 and can be found on [unsplash.com](https://unsplash.com/photos/TA22tc6YyMw)
