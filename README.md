@@ -4,6 +4,8 @@ Simple test project for posting to [Bluesky](https://blueskyweb.xyz/) with a pho
 
 ## Setup
 
+> NOTE: This setup requires `nodejs@18` to use global fetch
+
 Create a `.env` file with the config parameters
 
 ```conf
